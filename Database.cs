@@ -14,7 +14,7 @@
     class SQLiteHandler
     {
         // CONSTANTS
-        const string DATABASE_FILE_NAME = @"D:\Software Development\Databases\Sqlite3\MyPortfolio.db";
+        const string DATABASE_FILE_NAME = @"G:\path\to\database\MyPortfolio.db";
 
         // ATTRIBUTES       
         ushort _dbVersion;
