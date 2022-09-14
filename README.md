@@ -1,2 +1,2 @@
 # testing
-This reposiory is for testing code
+This repository is for testing code
